@@ -267,7 +267,7 @@ textarea {
 }
 .jj-list-tit {
     font-size: 16px;
-    line-height: 25px;
+    line-height: 30px;
     color: rgba(49, 70, 89, 1);
     font-weight: bold;
 }
@@ -323,7 +323,7 @@ textarea {
     color:rgba(49, 70, 89, 1);
     font-size: 13px;
     text-align: center;
-    line-height: 44px;
+    line-height: 35px;
     transition: all 0.2s;
     border-radius: 2px;
 }
@@ -349,7 +349,7 @@ textarea {
 }
 .jj-list88-tit {
     font-size: 16px;
-    line-height: 25px;
+    line-height: 30px;
     color: rgba(49, 70, 89, 1);
     font-weight: bold;
 }
@@ -405,7 +405,7 @@ textarea {
     color:rgba(49, 70, 89, 1);
     font-size: 13px;
     text-align: center;
-    line-height: 44px;
+    line-height: 35px;
     transition: all 0.2s;
     border-radius: 2px;
 }
